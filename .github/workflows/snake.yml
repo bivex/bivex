@@ -1,35 +1,34 @@
-name: Generate Snake
+name: Generate Custom Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: DenverCoder1/github-readme-streak-stats@main
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          user: bivex
-          theme: dark
-          format: svg
-          output: dist/streak-stats.svg
-
-      - name: Generate Contribution Snake
+          python-version: '3.9'
+          
+      - name: Install dependencies
         run: |
-          mkdir -p dist
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-               "https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=tokyonight&hide_border=true" \
-               -o dist/github-stats.svg
-
+          pip install requests matplotlib numpy pillow
+          
+      - name: Generate Snake
+        run: |
+          python .github/scripts/generate_snake.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./output
           publish_branch: output
