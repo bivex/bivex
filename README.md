@@ -1,81 +1,186 @@
-<!-- ╔════════════════════════════════════════════════════════════╗
-     ║                       G I T H U B  P R O F I L E          ║
-     ╚════════════════════════════════════════════════════════════╝ -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=30&multiline=true&lines=Hey%2C+I'm+Bivex!;Full-stack+Dev%F0%9F%9A%80Reverse-%E2%80%8BEngineer%F0%9F%94%8EAutomation+Geek" alt="typing intro">
-</h1>
-
-<p align="center">
-  <em>Code ➜ Test ➜ Secure ➜ Refactor ➜ Document ➜ Automate ➜ <strong>Repeat</strong></em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bivex?tab=followers">
-    <img src="https://img.shields.io/github/followers/bivex?label=Followers&logo=github&style=for-the-badge" alt="Followers"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=bivex">
-    <img src="https://komarev.com/ghpvc/?username=bivex&label=VIEWS&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-  </a>
-
-</p>
-
----
-
-## 🚀 About Me
-- 🌍 Remote-first engineer, UTC+3 preferred.
-- 💡 Building OSS around **Model Context Protocol**, VM automation & reverse-engineering pipelines.  
-- 🔭 Currently tinkering with LLVM passes & **Rust-driven** micro-services.  
-- 🗣️ Happy to chat on low-level debugging, DevOps, API design.  
-- ☕ Fueled by coffee, cyber-punk art & synthwave playlists.
-
----
-
-## ⚙️ Toolbox & Tech
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ClickHouse-FFDD00.svg?logo=clickhouse&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20.svg?logo=apachekafka&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/K8s-326ce5.svg?logo=kubernetes&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=000&style=for-the-badge"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-| ⭐ Repo | 🔧 Stack | 🚀 One-liner |
-|:--|:--|:--|
-| [`VixMCP.Ai.Bridge`](https://github.com/bivex/VixMCP.Ai.Bridge) | `.NET` | VMware VIX bindings + MCP bridge for AI-driven VM orchestration |
-| [`CursorPaste`](https://github.com/bivex/CursorPaste) | `C# / Win32` | Copy → paste by simply moving your mouse cursor |
-| [`interested`](https://github.com/bivex/interested) | `Python` | Sandbox for event-driven services & async experiments |
-| [`batch_files`](https://github.com/bivex/batch_files) | `PowerShell` | Handy scripts that save hours of DevOps routine |
-
-> 👀 See more in [my repos list »](https://github.com/bivex?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bivex&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bivex&theme=tokyonight&margin-w=10&no-frame=true" alt="trophies"/>
-</p>
-
----
-
-
-## 🤝 Let’s Collaborate
-- 🐞 Found a bug? — open an **Issue** or **PR**.  
-- 💡 Need bespoke feature? — hit me up!  
-- ⭐ Like my work? — smash that star & share.
+<!-- ████████████████████████████████████████████████████████████
+     █  ____  ____   ____   ____ _____    ____ ____ _____ 
+     █ |  _ \|  _ \ / __ \ / ___|_   _|  / ___/ ___|_   _|
+     █ | |_) | |_) | |  | | |     | |   | |  | |     | |  
+     █ |  __/|  _ <| |__| | |___  | |   | |__| |___  | |  
+     █ |_|   |_| \_\\____/ \____| |_|    \____\____| |_|  
+     ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-  <strong>«Stay curious, keep hacking!»</strong>
+
+```ascii
+                    ╔══════════════════════════════════════╗
+                    ║              B I V E X               ║
+                    ║      Code Architect • Innovator     ║ 
+                    ╚══════════════════════════════════════╝
+                            
+        ⚡ Building the future, one commit at a time ⚡
+```
+
+![Matrix Code Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 **MISSION STATEMENT**
+> *"Transform complex problems into elegant solutions through automation, security, and innovation."*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Senior+Software+Engineer;Reverse+Engineering+Specialist;DevOps+%26+Automation+Expert;Open+Source+Contributor;Security+%26+Anti-Fraud+Developer)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td>
+
+## 🚀 CORE SYSTEMS
+
+```yaml
+primary_languages:
+  - C# / .NET 8+ (Expert)
+  - Go (Advanced)
+  - Python (Advanced)
+  - PowerShell/Bash (Expert)
+
+specializations:
+  - Anti-fraud detection engines
+  - VM automation & orchestration  
+  - High-throughput data pipelines
+  - Reverse engineering tooling
+  - MCP (Model Context Protocol)
+
+infrastructure:
+  - ClickHouse/InfluxDB
+  - Kafka/NATS streaming
+  - Docker/K8s orchestration
+  - Nginx/HAProxy load balancing
+```
+
+</td>
+<td width="50%">
+
+## 💻 LIVE CODING STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=synthwave&hide_border=true&custom_title=Code%20Matrix" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bivex&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<details>
+<summary>🔮 <strong>CLICK TO EXPAND: Secret Arsenal</strong></summary>
+
+### 🛡️ Anti-Fraud Toolkit
+- **Real-time Decision Engines** with <2ms latency
+- **ML-powered Bot Detection** (99.7% accuracy)
+- **Traffic Quality Scoring** algorithms
+- **Chargeback Automation** systems
+
+### 🔧 DevOps Wizardry
+- **Zero-downtime Deployments** via Blue/Green
+- **Auto-scaling Infrastructure** (K8s HPA/VPA)
+- **Observability Stacks** (Prometheus/Grafana/Jaeger)
+- **Security Hardening** (Fail2Ban, WAF, Rate Limiting)
+
+### 🎯 Reverse Engineering
+- **Binary Analysis** (IDA Pro, Ghidra, x64dbg)
+- **Memory Forensics** & heap analysis
+- **Protocol Reverse Engineering**
+- **Anti-debugging/VM Detection bypass**
+
+</details>
+
+---
+
+## 🎨 **PROJECT SHOWCASE**
+
+<div align="center">
+
+| 🚀 **Project** | 🔧 **Tech** | ⭐ **Impact** | 🎯 **Status** |
+|:--:|:--:|:--:|:--:|
+| **[VixMCP.Ai.Bridge](https://github.com/bivex/VixMCP.Ai.Bridge)** | `.NET/C#` | AI-driven VM automation | `🟢 Active` |
+| **[TrafficGuard Pro](https://github.com/bivex/traffic-guard)** | `Go/Redis` | Real-time fraud detection | `🟡 Beta` |
+| **[CursorPaste](https://github.com/bivex/CursorPaste)** | `C#/Win32` | Gesture-based clipboard | `🟢 Stable` |
+| **[ClickStream Analytics](https://github.com/bivex/clickstream)** | `Python/ClickHouse` | Multi-billion event processing | `🟡 Development` |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌊 **CONTRIBUTION WAVE**
+
+![Snake eating my contributions](https://raw.githubusercontent.com/bivex/bivex/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 📊 **WEEKLY FOCUS**
+```text
+Go          ████████████░   75%
+C#          ████████░░░░   60%
+Python      ██████░░░░░░   45% 
+PowerShell  ████░░░░░░░░   30%
+YAML/Config ██░░░░░░░░░░   15%
+```
+
+</td>
+<td width="50%">
+
+### 🔥 **CURRENT MISSION**
+- 🎯 Building **OSS anti-fraud platform**
+- 🚀 Contributing to **MCP ecosystem**
+- 🔍 Researching **LLVM optimization**
+- 📚 Writing **technical articles**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎭 **DIGITAL PRESENCE**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bivex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bivex)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_bivex)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bivex.dev@gmail.com)
+
+---
+
+### 🎵 **Currently Vibing To**
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/bivex)
+
+---
+
+*"In a world of infinite possibilities, I choose to build the impossible."*
+
+**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions) • [🔥 Hire Me](mailto:87@gmail.com) • [⭐ Support My Work](https://github.com/sponsors/bivex)**
+
+</div>
+
+<!-- Easter Egg: If you're reading this in source, you found it! 🎉 -->
+<!-- ⚡ Want to build something amazing together? Drop me a line! ⚡ -->
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
