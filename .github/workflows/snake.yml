@@ -1,53 +1,26 @@
 name: Generate Snake Animation
 
 on:
-  # Запускается каждые 12 часов
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # Позволяет запустить вручную
+    - cron: "0 8 * * *"
   workflow_dispatch:
-  
-  # Запускается при push в main
-  push:
-    branches:
-    - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # Чекаут кода
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      # Устанавливаем Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      # Устанавливаем системные зависимости для canvas
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
-
-      # Генерируем snake (используем более стабильную версию)
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v2
+      - name: Generate snake gif
+        uses: Platane/snk@v2.2.1
+        id: snake-gif
         with:
           github_user_name: bivex
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
           dark_mode_svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
-      # Загружаем в ветку output
-      - name: Push to output branch
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
