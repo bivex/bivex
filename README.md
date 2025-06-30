@@ -17,9 +17,7 @@
   <a href="https://komarev.com/ghpvc/?username=bivex">
     <img src="https://komarev.com/ghpvc/?username=bivex&label=VIEWS&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </a>
-  <a href="https://twitter.com/_bivex">
-    <img src="https://img.shields.io/twitter/follow/_bivex?style=for-the-badge" alt="Twitter Follow"/>
-  </a>
+
 </p>
 
 ---
