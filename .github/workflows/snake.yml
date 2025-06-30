@@ -1,29 +1,35 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Generate snake gif
-        uses: Platane/snk@v2.2.1
-        id: snake-gif
-        with:
-          github_user_name: bivex
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          dark_mode_svg_out_path: dist/github-contribution-grid-snake-dark.svg
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate Snake
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          user: bivex
+          theme: dark
+          format: svg
+          output: dist/streak-stats.svg
+
+      - name: Generate Contribution Snake
+        run: |
+          mkdir -p dist
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               "https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=tokyonight&hide_border=true" \
+               -o dist/github-stats.svg
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
