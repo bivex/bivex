@@ -120,7 +120,7 @@ infrastructure:
 
 ## 🌊 **CONTRIBUTION WAVE**
 
-![Snake eating my contributions](https://raw.githubusercontent.com/bivex/bivex/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/bivex/bivex/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 
 </div>
 
