@@ -1,19 +1,7 @@
-<!-- ████████████████████████████████████████████████████████████
-     █  ____  ____   ____   ____ _____    ____ ____ _____ 
-     █ |  _ \|  _ \ / __ \ / ___|_   _|  / ___/ ___|_   _|
-     █ | |_) | |_) | |  | | |     | |   | |  | |     | |  
-     █ |  __/|  _ <| |__| | |___  | |   | |__| |___  | |  
-     █ |_|   |_| \_\\____/ \____| |_|    \____\____| |_|  
-     ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 ```ascii
-                    ╔══════════════════════════════════════╗
-                    ║              B I V E X               ║
-                    ║      Code Architect • Innovator     ║ 
-                    ╚══════════════════════════════════════╝
-                            
         ⚡ Building the future, one commit at a time ⚡
 ```
 
@@ -159,9 +147,6 @@ YAML/Config ██░░░░░░░░░░   15%
 ## 🎭 **DIGITAL PRESENCE**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bivex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bivex)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_bivex)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bivex.dev@gmail.com)
 
 ---
 
@@ -172,7 +157,7 @@ YAML/Config ██░░░░░░░░░░   15%
 
 *"In a world of infinite possibilities, I choose to build the impossible."*
 
-**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions) • [🔥 Hire Me](mailto:87@gmail.com) • [⭐ Support My Work](https://github.com/sponsors/bivex)**
+**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions)**
 
 </div>
 
