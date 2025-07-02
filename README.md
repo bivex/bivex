@@ -170,4 +170,3 @@ YAML/Config ██░░░░░░░░░░   15%
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-![](https://a.b-b.top/pixel.gif?repo=my-project&utm_source=github&utm_medium=readme&utm_campaign=launch)
