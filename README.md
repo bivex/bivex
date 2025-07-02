@@ -1,3 +1,4 @@
+[![Made with ❤️](https://a.b-b.top/badge.svg?repo=bivex&label=Made%20with%20❤️&background_color=e91e63&background_color2=ad1457&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
 
 <div align="center">
 
@@ -169,3 +170,4 @@ YAML/Config ██░░░░░░░░░░   15%
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+![](https://a.b-b.top/pixel.gif?repo=my-project&utm_source=github&utm_medium=readme&utm_campaign=launch)
