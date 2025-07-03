@@ -97,9 +97,7 @@ infrastructure:
 | 🚀 **Project** | 🔧 **Tech** | ⭐ **Impact** | 🎯 **Status** |
 |:--:|:--:|:--:|:--:|
 | **[VixMCP.Ai.Bridge](https://github.com/bivex/VixMCP.Ai.Bridge)** | `.NET/C#` | AI-driven VM automation | `🟢 Active` |
-| **[TrafficGuard Pro](https://github.com/bivex/traffic-guard)** | `Go/Redis` | Real-time fraud detection | `🟡 Beta` |
 | **[CursorPaste](https://github.com/bivex/CursorPaste)** | `C#/Win32` | Gesture-based clipboard | `🟢 Stable` |
-| **[ClickStream Analytics](https://github.com/bivex/clickstream)** | `Python/ClickHouse` | Multi-billion event processing | `🟡 Development` |
 
 </div>
 
