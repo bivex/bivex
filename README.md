@@ -70,8 +70,8 @@
 
 ### 🔗 **GET IN TOUCH**
 [![Portfolio](https://img.shields.io/badge/Portfolio-b--b.top-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://b-b.top)
-[![Hire Me](https://img.shields.io/badge/HIRE_ME-Contact-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://b-b.top/contact)
-[![Email](https://img.shields.io/badge/Response-24hrs-45B7D1?style=for-the-badge&logo=clock&logoColor=white)](https://b-b.top/contact)
+[![Hire Me](https://img.shields.io/badge/HIRE_ME-Contact-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
+[![Email](https://img.shields.io/badge/Response-24hrs-45B7D1?style=for-the-badge&logo=clock&logoColor=white)](https://contact.b-b.top)
 
 </td>
 </tr>
@@ -216,7 +216,7 @@ YAML/Config ██░░░░░░░░░░   15%
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bivex)
 [![Portfolio](https://img.shields.io/badge/Portfolio-b--b.top-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://b-b.top)
-[![Hire Me](https://img.shields.io/badge/Available-For_Hire-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://b-b.top/contact)
+[![Hire Me](https://img.shields.io/badge/Available-For_Hire-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
 
 ---
 
@@ -227,7 +227,7 @@ YAML/Config ██░░░░░░░░░░   15%
 
 *"In a world of infinite possibilities, I choose to build the impossible."*
 
-**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions)** | **[🚀 Start Your Project](https://b-b.top/contact)**
+**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions)** | **[🚀 Start Your Project](https://contact.b-b.top)**
 
 </div>
 
