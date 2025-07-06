@@ -1,4 +1,4 @@
-[![Made with ❤️](https://a.b-b.top/badge.svg?repo=bivex&label=Made&background_color=e91e63&background_color2=ad1457&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
+[![Made with ❤️](https://a.b-b.top/badge.png?repo=bivex&label=Made&background_color=e91e63&background_color2=ad1457&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
 
 <div align="center">
 
@@ -14,10 +14,10 @@
 
 <div align="center">
 
-### 🎯 **MISSION STATEMENT**
-> *"Transform complex problems into elegant solutions through automation, security, and innovation."*
+### 🎯 **ABOUT ME**
+> *Software Engineer focused on automation, security, and system architecture*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Senior+Software+Engineer;Reverse+Engineering+Specialist;DevOps+%26+Automation+Expert;Open+Source+Contributor;Security+%26+Anti-Fraud+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Automation+Specialist;Security+%26+DevOps;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,61 +25,60 @@
 
 <div align="center">
 
-## 💼 **AVAILABLE FOR HIRE** 
-### 🚀 *Enterprise Automation & AI Integration Specialist*
+## 💼 **OPEN TO OPPORTUNITIES** 
+### 🚀 *Software Engineer & Automation Specialist*
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-### ⚡ **EXPERTISE**
+### ⚡ **TECHNICAL FOCUS**
 ```text
-• VMware Automation
-• AI/ML Integration  
+• VM Automation
 • Security Systems
-• DevOps Pipelines
-• Anti-Fraud Engines
+• DevOps & CI/CD
+• Data Processing
+• Anti-Fraud Detection
 ```
 
 </td>
 <td align="center" width="25%">
 
-### 🎯 **SPECIALIZING IN**
+### 🎯 **AREAS OF INTEREST**
 ```text
-• Enterprise Solutions
+• System Architecture
 • Performance Optimization
-• System Architecture  
-• Technical Leadership
-• 24/7 Critical Systems
+• Infrastructure as Code
+• Monitoring & Observability
+• Security Hardening
 ```
 
 </td>
 <td align="center" width="25%">
 
-### 📈 **PROVEN RESULTS**
+### 📈 **RECENT PROJECTS**
 ```text
-• 100% Success Rate
-• <24hr Response Time
-• Fortune 500 Clients
-• Zero Downtime Systems
-• 99.9% Uptime SLA
+• AI-VM Integration
+• Automation Tools
+• Data Pipelines
+• Security Research
+• Open Source Contributions
 ```
 
 </td>
 <td align="center" width="25%">
 
-### 🔗 **GET IN TOUCH**
+### 🔗 **CONNECT**
 [![Portfolio](https://img.shields.io/badge/Portfolio-b--b.top-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://b-b.top)
-[![Hire Me](https://img.shields.io/badge/HIRE_ME-Contact-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
-[![Email](https://img.shields.io/badge/Response-24hrs-45B7D1?style=for-the-badge&logo=clock&logoColor=white)](https://contact.b-b.top)
+[![Contact](https://img.shields.io/badge/Contact-Available-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
+[![Remote](https://img.shields.io/badge/Remote-Worldwide-45B7D1?style=for-the-badge&logo=globe&logoColor=white)](https://contact.b-b.top)
 
 </td>
 </tr>
 </table>
 
-### 💡 **CLIENT TESTIMONIALS**
-> *"Exceptional automation solutions that transformed our infrastructure"* - **Fortune 500 CTO**  
-> *"Delivered enterprise-grade security with zero downtime migration"* - **FinTech Startup CEO**
+### 💡 **CURRENT FOCUS**
+Working on automation tools, security research, and contributing to open source projects. Always interested in challenging problems and innovative solutions.
 
 </div>
 
@@ -89,35 +88,34 @@
 <tr>
 <td>
 
-## 🚀 CORE SYSTEMS
+## 🚀 TECH STACK
 
 ```yaml
 primary_languages:
-  - C# / .NET 8+ (Expert)
-  - Go (Advanced)
-  - Python (Advanced)
-  - PowerShell/Bash (Expert)
+  - C# / .NET 8+
+  - Go
+  - Python
+  - PowerShell/Bash
 
-specializations:
-  - Anti-fraud detection engines
-  - VM automation & orchestration  
-  - High-throughput data pipelines
-  - Reverse engineering tooling
-  - MCP (Model Context Protocol)
+current_projects:
+  - VM automation tools
+  - Security research
+  - Data processing pipelines
+  - MCP protocol implementation
 
 infrastructure:
+  - Docker & Kubernetes
   - ClickHouse/InfluxDB
-  - Kafka/NATS streaming
-  - Docker/K8s orchestration
-  - Nginx/HAProxy load balancing
+  - Message queues (Kafka/NATS)
+  - Reverse proxy (Nginx/HAProxy)
 ```
 
 </td>
 <td width="50%">
 
-## 💻 LIVE CODING STATS
+## 💻 GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=synthwave&hide_border=true&custom_title=Code%20Matrix" />
+<img src="https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=synthwave&hide_border=true&custom_title=GitHub%20Stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bivex&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
@@ -128,45 +126,44 @@ infrastructure:
 ---
 
 <details>
-<summary>🔮 <strong>CLICK TO EXPAND: Secret Arsenal</strong></summary>
+<summary>🔮 <strong>TECHNICAL DETAILS</strong></summary>
 
-### 🛡️ Anti-Fraud Toolkit
-- **Real-time Decision Engines** with <2ms latency
-- **ML-powered Bot Detection** (99.7% accuracy)
-- **Traffic Quality Scoring** algorithms
-- **Chargeback Automation** systems
+### 🛡️ Security & Anti-Fraud
+- Real-time decision engines with low latency requirements
+- Machine learning for anomaly detection
+- Traffic analysis and quality scoring
+- Automated security response systems
 
-### 🔧 DevOps Wizardry
-- **Zero-downtime Deployments** via Blue/Green
-- **Auto-scaling Infrastructure** (K8s HPA/VPA)
-- **Observability Stacks** (Prometheus/Grafana/Jaeger)
-- **Security Hardening** (Fail2Ban, WAF, Rate Limiting)
+### 🔧 DevOps & Infrastructure
+- Container orchestration with Kubernetes
+- CI/CD pipeline automation
+- Infrastructure monitoring and alerting
+- Performance optimization and scaling
 
-### 🎯 Reverse Engineering
-- **Binary Analysis** (IDA Pro, Ghidra, x64dbg)
-- **Memory Forensics** & heap analysis
-- **Protocol Reverse Engineering**
-- **Anti-debugging/VM Detection bypass**
+### 🎯 Research & Development
+- Binary analysis and reverse engineering
+- Memory forensics and debugging
+- Protocol analysis and implementation
+- Security vulnerability research
 
 </details>
 
 ---
 
-## 🎨 **PROJECT SHOWCASE**
+## 🎨 **FEATURED PROJECTS**
 
 <div align="center">
 
-| 🚀 **Project** | 🔧 **Tech** | ⭐ **Impact** | 🎯 **Status** |
+| 🚀 **Project** | 🔧 **Tech Stack** | 📋 **Description** | 🎯 **Status** |
 |:--:|:--:|:--:|:--:|
 | **[VixMCP.Ai.Bridge](https://github.com/bivex/VixMCP.Ai.Bridge)** | `.NET/C#` | AI-driven VM automation | `🟢 Active` |
-| **[CursorPaste](https://github.com/bivex/CursorPaste)** | `C#/Win32` | Gesture-based clipboard | `🟢 Stable` |
+| **[CursorPaste](https://github.com/bivex/CursorPaste)** | `C#/Win32` | Gesture-based clipboard manager | `🟢 Stable` |
 
-### 🏆 **SUCCESS METRICS**
-| **Project Type** | **Client Impact** | **Technology Stack** |
-|:--:|:--:|:--:|
-| Enterprise Automation | `80% Time Savings` | VMware VIX + AI |
-| DevOps Pipeline | `24/7 Monitoring` | C# + Go + K8s |
-| Security Platform | `Zero Breaches` | Anti-fraud ML |
+### 🏆 **PROJECT HIGHLIGHTS**
+- Developing automation tools for VM management
+- Creating security-focused utilities
+- Contributing to emerging protocols (MCP)
+- Building data processing solutions
 
 </div>
 
@@ -174,7 +171,7 @@ infrastructure:
 
 <div align="center">
 
-## 🌊 **CONTRIBUTION WAVE**
+## 🌊 **CONTRIBUTION ACTIVITY**
 
 <img src="https://raw.githubusercontent.com/bivex/bivex/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 
@@ -186,23 +183,23 @@ infrastructure:
 <tr>
 <td width="50%">
 
-### 📊 **WEEKLY FOCUS**
+### 📊 **CURRENT WORK**
 ```text
-Go          ████████████░   75%
-C#          ████████░░░░   60%
-Python      ██████░░░░░░   45% 
-PowerShell  ████░░░░░░░░   30%
-YAML/Config ██░░░░░░░░░░   15%
+Go          ████████████░   
+C#          ████████░░░░   
+Python      ██████░░░░░░   
+PowerShell  ████░░░░░░░░   
+YAML/Config ██░░░░░░░░░░   
 ```
 
 </td>
 <td width="50%">
 
-### 🔥 **CURRENT MISSION**
-- 🎯 Building **OSS anti-fraud platform**
-- 🚀 Contributing to **MCP ecosystem**
-- 🔍 Researching **LLVM optimization**
-- 📚 Writing **technical articles**
+### 🔥 **ACTIVE PROJECTS**
+- 🎯 Building automation tools
+- 🚀 Contributing to MCP ecosystem
+- 🔍 Security research projects
+- 📚 Learning new technologies
 
 </td>
 </tr>
@@ -212,27 +209,26 @@ YAML/Config ██░░░░░░░░░░   15%
 
 <div align="center">
 
-## 🎭 **DIGITAL PRESENCE**
+## 🎭 **LINKS & CONTACT**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bivex)
 [![Portfolio](https://img.shields.io/badge/Portfolio-b--b.top-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://b-b.top)
-[![Hire Me](https://img.shields.io/badge/Available-For_Hire-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
+[![Available](https://img.shields.io/badge/Available-For_Projects-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
 
 ---
 
-### 🎵 **Currently Vibing To**
+### 🎵 **Currently Listening To**
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/bivex)
 
 ---
 
-*"In a world of infinite possibilities, I choose to build the impossible."*
+*"Focus on building, learning, and solving interesting problems."*
 
-**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions)** | **[🚀 Start Your Project](https://contact.b-b.top)**
+**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions)** | **[🚀 View My Work](https://b-b.top)**
 
 </div>
 
-<!-- Easter Egg: If you're reading this in source, you found it! 🎉 -->
-<!-- ⚡ Ready to transform your business with cutting-edge automation? Let's talk! ⚡ -->
+<!-- Thanks for checking out my profile! Always open to interesting projects and collaborations. -->
 
 ---
 
