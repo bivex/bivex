@@ -1,130 +1,169 @@
-## 💼 OPEN TO OPPORTUNITIES
-### 🚀 Software Engineer & Automation Specialist
+<div align="center">
 
-### ⚡ TECHNICAL FOCUS
-- VM Automation
-- Security Systems
-- DevOps & CI/CD
-- Data Processing
-- Anti-Fraud Detection
+# 🌟 BIVEX
+### ⚡ **System Architect & Security Engineer** ⚡
 
-### 🎯 AREAS OF INTEREST
-- System Architecture
-- Performance Optimization
-- Infrastructure as Code
-- Monitoring & Observability
-- Security Hardening
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+Secure+%26+Scalable+Solutions;VM+Automation+Specialist;DevOps+%26+Anti-Fraud+Expert;Always+Learning+%26+Innovating" alt="Typing SVG" />
 
-### 📈 RECENT PROJECTS
-- AI-VM Integration
-- Automation Tools
-- Data Pipelines
-- Security Research
-- Open Source Contributions
-
-### 🔗 CONNECT
-[![Portfolio](https://img.shields.io/badge/Portfolio-b--b.top-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://b-b.top)
-[![Contact](https://img.shields.io/badge/Contact-Available-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
-[![Remote](https://img.shields.io/badge/Remote-Worldwide-45B7D1?style=for-the-badge&logo=globe&logoColor=white)](https://contact.b-b.top)
-
-### 💡 CURRENT FOCUS
-Working on automation tools, security research, and contributing to open source projects. Always interested in challenging problems and innovative solutions.
+</div>
 
 ---
 
-## 🚀 TECH STACK
+<div align="center">
 
-| Category        | Details                               |
-|-----------------|---------------------------------------|
-| Primary Languages | C# / .NET 8+, Go, Python, PowerShell/Bash |
-| Current Projects  | VM automation tools, Security research, Data processing pipelines, MCP protocol implementation |
-| Infrastructure  | Docker & Kubernetes, ClickHouse/InfluxDB, Message queues (Kafka/NATS), Reverse proxy (Nginx/HAProxy) |
+## 🎯 **CORE EXPERTISE**
 
-## 💻 GITHUB STATS
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/dusk/64/000000/virtual-machine.png"/><br/>
+<b>VM Automation</b><br/>
+<sub>Infrastructure as Code</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/dusk/64/000000/security-checked.png"/><br/>
+<b>Security Systems</b><br/>
+<sub>Anti-Fraud Detection</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/dusk/64/000000/api-settings.png"/><br/>
+<b>DevOps & CI/CD</b><br/>
+<sub>Performance Optimization</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=synthwave&hide_border=true&custom_title=GitHub%20Stats" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bivex&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+---
+
+## 🔧 **TECHNOLOGY ARSENAL**
+
+<div align="center">
+
+### **Languages & Frameworks**
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### **Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+### **Databases & Analytics**
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **FEATURED PROJECTS**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [VixMCP.Ai.Bridge](https://github.com/bivex/VixMCP.Ai.Bridge)
+**AI-Driven VM Automation Platform**
+- `.NET/C#` • `MCP Protocol`
+- Real-time VM management
+- AI-powered decision making
+- Status: 🟢 **Active Development**
+
+</td>
+<td width="50%">
+
+### 📋 [CursorPaste](https://github.com/bivex/CursorPaste)
+**Smart Clipboard Manager**
+- `C#` • `Win32 API`
+- Gesture-based interface
+- Advanced clipboard history
+- Status: 🟢 **Production Ready**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **DEVELOPMENT METRICS**
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bivex&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bivex&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff7b72&area=true&hide_border=true)
+
+</div>
 
 ---
 
 <details>
-<summary>🔮 **TECHNICAL DETAILS**</summary>
+<summary><h2>🔍 <b>DEEP DIVE EXPERTISE</b></h2></summary>
 
-### 🛡️ Security & Anti-Fraud
-- Real-time decision engines with low latency requirements
-- Machine learning for anomaly detection
-- Traffic analysis and quality scoring
-- Automated security response systems
+### 🛡️ **Security & Anti-Fraud Engineering**
+```yaml
+Focus Areas:
+  - Real-time Decision Engines: < 100ms response time
+  - ML Anomaly Detection: Pattern recognition & behavioral analysis
+  - Traffic Quality Scoring: Advanced filtering algorithms
+  - Automated Response Systems: Self-healing security infrastructure
+```
 
-### 🔧 DevOps & Infrastructure
-- Container orchestration with Kubernetes
-- CI/CD pipeline automation
-- Infrastructure monitoring and alerting
-- Performance optimization and scaling
+### 🔧 **DevOps & Infrastructure Mastery**
+```yaml
+Specializations:
+  - Container Orchestration: Kubernetes at scale
+  - CI/CD Automation: Zero-downtime deployments
+  - Monitoring & Observability: Prometheus, Grafana ecosystem
+  - Performance Engineering: Latency optimization & scaling
+```
 
-### 🎯 Research & Development
-- Binary analysis and reverse engineering
-- Memory forensics and debugging
-- Protocol analysis and implementation
-- Security vulnerability research
+### 🎯 **Research & Development**
+```yaml
+Current Research:
+  - Binary Analysis: Reverse engineering & memory forensics
+  - Protocol Implementation: MCP & custom communication protocols
+  - Security Research: Vulnerability assessment & exploitation
+  - Automation Innovation: Next-gen infrastructure tools
+```
 
 </details>
 
------
+---
 
-## 🎨 FEATURED PROJECTS
+<div align="center">
 
-| Project                            | Tech Stack  | Description                | Status     |
-|------------------------------------|-------------|----------------------------|------------|
-| [VixMCP.Ai.Bridge](https://github.com/bivex/VixMCP.Ai.Bridge) | `.NET/C#`   | AI-driven VM automation    | 🟢 Active |
-| [CursorPaste](https://github.com/bivex/CursorPaste)       | `C#/Win32`  | Gesture-based clipboard manager | 🟢 Stable  |
-
-### 🏆 PROJECT HIGHLIGHTS
-- Developing automation tools for VM management
-- Creating security-focused utilities
-- Contributing to emerging protocols (MCP)
-- Building data processing solutions
+## 🎵 **CURRENT VIBES**
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=58a6ff)](https://open.spotify.com/user/bivex)
 
 ---
 
-## 📊 CURRENT WORK
+## 🌐 **CONNECT & COLLABORATE**
 
-| Language    | Progress        |
-|-------------|-----------------|
-| Go          | ████████████░   |
-| C#          | ████████░░░░   |
-| Python      | ██████░░░░░░   |
-| PowerShell  | ████░░░░░░░░   |
-| YAML/Config | ██░░░░░░░░░░   |
-
-## 🔥 ACTIVE PROJECTS
-- 🎯 Building automation tools
-- 🚀 Contributing to MCP ecosystem
-- 🔍 Security research projects
-- 📚 Learning new technologies
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-b--b.top-FF6B6B?style=for-the-badge&logoColor=white)](https://b-b.top)
+[![Contact](https://img.shields.io/badge/💬_Let's_Talk-Available-4ECDC4?style=for-the-badge&logoColor=white)](https://contact.b-b.top)
+[![Remote Work](https://img.shields.io/badge/🌍_Remote-Worldwide-45B7D1?style=for-the-badge&logoColor=white)](https://contact.b-b.top)
 
 ---
 
-## 🎭 LINKS & CONTACT
+<h3>💭 <em>"Code is poetry written in logic, security is the art of making it unbreakable"</em></h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bivex)
-[![Portfolio](https://img.shields.io/badge/Portfolio-b--b.top-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://b-b.top)
-[![Available](https://img.shields.io/badge/Available-For_Projects-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)](https://contact.b-b.top)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=6,11,20"/>
 
----
-
-### 🎵 Currently Listening To
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/bivex)
-
----
-
-*"Focus on building, learning, and solving interesting problems."*
-
-**[💬 Let's Connect!](https://github.com/bivex/bivex/discussions)** | **[🚀 View My Work](https://b-b.top)**
-
-<!-- Thanks for checking out my profile! Always open to interesting projects and collaborations. -->
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
