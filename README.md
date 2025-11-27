@@ -65,61 +65,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 **FEATURED PROJECTS**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🤖 [VixMCP.Ai.Bridge](https://github.com/bivex/VixMCP.Ai.Bridge)
-
-**AI-Driven VM Automation Platform**
-
-</div>
-
-```yaml
-Stack: .NET/C# • MCP Protocol
-Features:
-  ⚡ Real-time VM management
-  🧠 AI-powered decision making
-  📊 Advanced monitoring
-Status: 🟢 Active Development
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 📋 [CursorPaste](https://github.com/bivex/CursorPaste)
-
-**Smart Clipboard Manager**
-
-</div>
-
-```yaml
-Stack: C# • Win32 API
-Features:
-  ✨ Gesture-based interface
-  📝 Advanced clipboard history
-  ⚡ Lightning-fast access
-Status: 🟢 Production Ready
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 ## 📊 **DEVELOPMENT METRICS**
