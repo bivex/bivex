@@ -94,7 +94,6 @@
 ### 🛡️ **Security & Anti-Fraud Engineering**
 
 </div>
-```yaml
 Focus Areas:
   🎯 Real-time Decision Engines: 
      → < 100ms response time
@@ -111,14 +110,12 @@ Focus Areas:
   ⚡ Automated Response Systems: 
      → Self-healing security infrastructure
      → Adaptive threat mitigation
-```
 
 <div align="center">
 
 ### 🔧 **DevOps & Infrastructure Mastery**
 
 </div>
-```yaml
 Specializations:
   ☸️ Container Orchestration: 
      → Kubernetes at scale
@@ -135,14 +132,13 @@ Specializations:
   ⚡ Performance Engineering: 
      → Latency optimization
      → Auto-scaling strategies
-```
 
 <div align="center">
 
 ### 🎯 **Research & Development**
 
 </div>
-```yaml
+
 Current Research:
   🔬 Binary Analysis: 
      → Reverse engineering
