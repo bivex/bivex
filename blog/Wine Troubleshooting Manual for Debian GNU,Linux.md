@@ -147,6 +147,27 @@ Wine translates Windows API calls to POSIX calls, enabling Windows applications 
    xvfb-run -a wine application.exe
    ```
 
+### Fixing Fontconfig Warnings
+
+**Purpose:** Eliminate Fontconfig warnings caused by incompatible configuration files.
+
+1. Identify problematic file:
+   ```
+   grep -r "reset-dirs" /usr/share/fontconfig/conf.avail/
+   ```
+
+2. Disable the sample configuration file:
+   ```
+   mv /usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf /usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf.disabled
+   ```
+
+3. Clear and regenerate font cache:
+   ```
+   fc-cache -fv
+   ```
+
+4. Verify the fix by running a Wine application - Fontconfig warnings should disappear.
+
 ### Installing Git Inside Wine
 
 **Purpose:** Provide Git executable for applications using GitPython or similar libraries.
@@ -234,6 +255,7 @@ Wine translates Windows API calls to POSIX calls, enabling Windows applications 
 | Wine32 missing | "it looks like wine32 is missing" | Use wine64; install manually if needed |
 | Display errors | "nodrv_CreateWindow" | Use xvfb-run for headless operation |
 | Git not found | "Bad git executable" | Install Git inside Wine prefix |
+| Fontconfig warnings | "Fontconfig warning: ... unknown element 'reset-dirs'" | Disable sample config: `mv /usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf.disabled` then `fc-cache -fv` |
 | Permission errors | Access denied | Run as appropriate user or adjust permissions |
 | Package conflicts | Dependency resolution failed | Use --fix-broken or manual installation |
 
