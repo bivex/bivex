@@ -71,9 +71,7 @@
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=bivex&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8B5CF6&text_color=6B7280&icon_color=8B5CF6" alt="GitHub Stats" />
-</td>
+
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bivex&theme=radical&hide_border=true&background=000000&stroke=8B5CF6&ring=8B5CF6&fire=7C3AED&currStreakLabel=6B7280" alt="GitHub Streak" />
 </td>
