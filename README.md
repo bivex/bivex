@@ -69,15 +69,6 @@
 
 ## 📊 **DEVELOPMENT METRICS**
 
-<table>
-<tr>
-
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bivex&theme=radical&hide_border=true&background=000000&stroke=8B5CF6&ring=8B5CF6&fire=7C3AED&currStreakLabel=6B7280" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bivex&bg_color=000000&color=8B5CF6&line=7C3AED&point=6366F1&area=true&hide_border=true)
 
 </div>
