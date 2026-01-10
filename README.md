@@ -13,60 +13,6 @@
 
 <div align="center">
 
-## 🎯 **CORE EXPERTISE**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/64/000000/virtual-machine.png"/><br/>
-<b>⬛ VM Automation</b><br/>
-<sub>Infrastructure as Code</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/64/000000/security-checked.png"/><br/>
-<b>⬛ Security Systems</b><br/>
-<sub>Anti-Fraud Detection</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/64/000000/api-settings.png"/><br/>
-<b>⬛ DevOps & CI/CD</b><br/>
-<sub>Performance Optimization</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔧 **TECHNOLOGY ARSENAL**
-
-### **💻 Languages & Frameworks**
-
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000000)
-
-### **🚀 Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&labelColor=000000)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&labelColor=000000)
-
-### **💾 Databases & Analytics**
-
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black&labelColor=000000)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white&labelColor=000000)
-
-</div>
-
-<div align="center">
-
 ## 📊 **DEVELOPMENT METRICS**
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bivex&bg_color=000000&color=8B5CF6&line=7C3AED&point=6366F1&area=true&hide_border=true)
