@@ -1,75 +1,46 @@
-<div align="center">
+# Bivex
 
-# 🌑 BIVEX
-### ⚡ **System Architect & Security Engineer** ⚡
+System Architect & Security Engineer specializing in VM automation, security systems, and DevOps.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Secure+%26+Scalable+Solutions;VM+Automation+Specialist;DevOps+%26+Anti-Fraud+Expert;Always+Learning+%26+Innovating" alt="Typing SVG" />
+## Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=100&section=header"/>
+- **Languages:** Python, C/C++, JavaScript/TypeScript, Bash
+- **DevOps:** Docker, CI/CD pipelines, System administration
+- **Security:** Anti-fraud systems, Security analysis
+- **Automation:** VM automation, Scripting utilities
 
-</div>
+## Featured Projects
 
----
+### [repos-inventory](https://github.com/bivex/repos-inventory)
+**What is it?** Complete inventory and catalog of all bivex GitHub projects.
 
-<div align="center">
+**Problem it solves:** Maintains organized, documented overview of all projects with categorization for easy discovery and maintenance.
 
-## 📊 **DEVELOPMENT METRICS**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bivex&bg_color=000000&color=8B5CF6&line=7C3AED&point=6366F1&area=true&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 **CURRENT VIBES**
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=8B5CF6)](https://open.spotify.com/user/bivex)
-
-</div>
+**Stack:** Python, Git automation, Documentation
 
 ---
 
-<div align="center">
+### [interested](https://github.com/bivex/interested)
+**What is it?** Diverse personal collection of scripts and exploratory projects.
 
-## 🌐 **CONNECT & COLLABORATE**
+**Problem it solves:** Provides reusable utilities for CI/CD, documentation generation, and various automation tasks across multiple languages.
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit-8B5CF6?style=for-the-badge&logoColor=white&labelColor=000000)](https://b-b.top)
-
-**Personal Website**
-
-</td>
-<td align="center" width="33%">
-
-[![Contact](https://img.shields.io/badge/💬_Contact-Available-7C3AED?style=for-the-badge&logoColor=white&labelColor=000000)](https://contact.b-b.top)
-
-**Let's Talk**
-
-</td>
-<td align="center" width="33%">
-
-[![Remote](https://img.shields.io/badge/🌍_Remote-Worldwide-6366F1?style=for-the-badge&logoColor=white&labelColor=000000)](https://contact.b-b.top)
-
-**Open to Work**
-
-</td>
-</tr>
-</table>
+**Stack:** Python, C++, Batchfile, JavaScript
 
 ---
 
-### 💭 *"Code is poetry written in logic,*
-### *security is the art of making it unbreakable"*
+### [smbios-parser](https://github.com/bivex/smbios-parser)
+**What is it?** Small C99 and C++98 library to parse SMBIOS information.
+
+**Problem it solves:** Enables programs to read and interpret system hardware information from BIOS/UEFI data structures.
+
+**Stack:** C99, C++98, Systems programming
+
+## Contact
+
+- 📧 Email: [contact.b-b.top](https://contact.b-b.top)
+- 💼 Available for remote work worldwide
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=0,1,2,3"/>
-
-**⭐ If you like what you see, consider starring my repos!**
-
-</div>
+*Building secure and scalable automation solutions*
