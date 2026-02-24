@@ -27,15 +27,6 @@ System Architect & Security Engineer specializing in VM automation, security sys
 
 **Stack:** Python, C++, Batchfile, JavaScript
 
----
-
-### [smbios-parser](https://github.com/bivex/smbios-parser)
-**What is it?** Small C99 and C++98 library to parse SMBIOS information.
-
-**Problem it solves:** Enables programs to read and interpret system hardware information from BIOS/UEFI data structures.
-
-**Stack:** C99, C++98, Systems programming
-
 ## Contact
 
 - 📧 Email: [contact.b-b.top](https://contact.b-b.top)
