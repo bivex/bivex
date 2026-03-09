@@ -4,7 +4,7 @@ System Architect & Security Engineer specializing in VM automation, security sys
 
 ## Stack
 
-- **Languages:** Python, C/C++, JavaScript/TypeScript, Bash
+- **Languages:** Python infra, JS/TS toolchain, Rust infra
 - **DevOps:** Docker, CI/CD pipelines, System administration
 - **Security:** Anti-fraud systems, Security analysis
 - **Automation:** VM automation, Scripting utilities
