@@ -29,7 +29,6 @@ System Architect & Security Engineer specializing in VM automation, security sys
 
 ## Contact
 
-- 📧 Email: [contact.b-b.top](https://contact.b-b.top)
 - 💼 Available for remote work worldwide
 
 ---
